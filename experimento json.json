@@ -1,0 +1,23 @@
+{
+    
+     "nombre": "Sinhu",
+      "edad": 31,
+      "altura": 1.82,
+      "genero ": "M", 
+      "Lugar":  "ISIMA", 
+      "periodo": 3 ,
+      "fallece": "Avandaro", 
+
+        ["expreiencia": "Artmario Producciones" 
+            {"Año": 2018, "Obra": "Juicio a una Zorra", "Rol": "Performer y arreglista",
+            "Ao": 2019, "Obra": "Sirena varada", "Rol": "musicalización",
+            "Año": 2019, "Obra" : "Yerma", "Rol": "musicalización y composicion original"}
+        ] 
+       {"Obra": "Cuentos macabros para adultos infectados",
+        "Año": 2019 , "edición": "Primera", "Rol": "intérepte" , 
+        "Año": 2021 , "edición": "Tercera", "Rol": "intérepte" ,
+        "Año": 2022 , "edición": "Quinta", "Rol": "Diseño sonoro"}
+
+        {"año": 2021, "compañía": "corpore et anima"}
+
+}
